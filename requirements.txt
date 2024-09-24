@@ -20,6 +20,7 @@ idna==3.10
 ipykernel==6.29.5
 ipython==8.27.0
 jedi==0.19.1
+joblib==1.4.2
 jupyter_client==8.6.3
 jupyter_core==5.7.2
 keras==3.5.0
@@ -38,6 +39,7 @@ numpy==1.26.4
 opt-einsum==3.3.0
 optree==0.12.1
 packaging==24.1
+pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
 pillow==10.4.0
@@ -50,9 +52,12 @@ pure_eval==0.2.3
 Pygments==2.18.0
 pyparsing==3.1.4
 python-dateutil==2.9.0.post0
+pytz==2024.2
 pyzmq==26.2.0
 requests==2.32.3
 rich==13.8.1
+scikit-learn==1.5.2
+scipy==1.14.1
 six==1.16.0
 stack-data==0.6.3
 tensorboard==2.17.1
@@ -60,9 +65,11 @@ tensorboard-data-server==0.7.2
 tensorflow==2.17.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.4.0
+threadpoolctl==3.5.0
 tornado==6.4.1
 traitlets==5.14.3
 typing_extensions==4.12.2
+tzdata==2024.2
 urllib3==2.2.3
 wcwidth==0.2.13
 Werkzeug==3.0.4
